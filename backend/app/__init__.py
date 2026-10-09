@@ -1,0 +1,1 @@
+"""Aplicacao do Consolidador de Fontes para LLM."""
